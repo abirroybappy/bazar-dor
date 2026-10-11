@@ -3,7 +3,7 @@
 দৈনন্দিন নিত্যপ্রয়োজনীয় পণ্যের (চাল, ডাল, তেল, সবজি, মাছ, মাংস ইত্যাদি) বাজার দর এক নজরে দেখার জন্য একটি আধুনিক ও রেসপনসিভ ওয়েব অ্যাপ্লিকেশন।
 
 ## 🚀 লাইভ ডেমো
-- **লাইভ ওয়েবসাইট:** [https://bazardor-project.vercel.app](https://bazardor-project.vercel.app)
+- **লাইভ ওয়েবসাইট:** [https://bazar-dor-lovat-one.vercel.app/](https://bazar-dor-lovat-one.vercel.app/)
 
 ---
 
