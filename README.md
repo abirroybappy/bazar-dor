@@ -30,7 +30,7 @@
 ## 📦 লোকাল সেটআপ (Local Installation)
 
 ১. রেপোজিটরি ক্লোন করুন:
-git clone https://github.com/your-username/bazardor.git
+git clone https://github.com/abirroybappy/bazar-dor
 cd bazardor
 
 
@@ -42,8 +42,7 @@ npm install
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 GOOGLE_CLIENT_ID=your_google_id
 GOOGLE_CLIENT_SECRET=your_google_secret
-GITHUB_CLIENT_ID=your_github_id
-GITHUB_CLIENT_SECRET=your_github_secret
+
 
 
 ৪. প্রজেক্ট রান করুন:
